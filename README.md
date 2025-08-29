@@ -1,22 +1,21 @@
 # Junior Front-End Developer Portfolio ( Hendy Salim )
 
 A personal portfolio landing page to showcase my skills, projects, and journey as a Front-End Developer.
-
 Built with a modern tech stack, clean design, and smooth animations to create a great first impression for recruiters and collaborators.
 
 ## ✨ Sections
 
-Home – The main landing page introducing me as a Front-End Developer.
+- Home – The main landing page introducing me as a Front-End Developer.
 
-About – A brief background about my journey and passion in front-end development.
+- About – A brief background about my journey and passion in front-end development.
 
-Skills – Technologies and tools I work with.
+- Skills – Technologies and tools I work with.
 
-Projects – A showcase of my work and project experiences.
+- Projects – A showcase of my work and project experiences.
 
-FAQ – Common questions about me as a developer.
+- FAQ – Common questions about me as a developer.
 
-Contact – Get in touch for collaborations or opportunities.
+- Contact – Get in touch for collaborations or opportunities.
 
 ## 🚀 Features
 
