@@ -38,7 +38,6 @@ Contact – Get in touch for collaborations or opportunities.
 - **Animations**: Framer Motion
 - **UI Components**: Radix UI + Shadcn/ui
 - **Icons**: Lucide React
-- **Theme**: next-themes for dark/light mode
 - **Forms**: React Hook Form (ready for integration)
 
 ## 📁 Project Structure
